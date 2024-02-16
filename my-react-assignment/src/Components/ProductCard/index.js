@@ -3,7 +3,6 @@ import { MdCurrencyRupee } from "react-icons/md";
 import { IoBagAddOutline } from "react-icons/io5";
 import "./index.css";
 
-// const productsList = [
 //   {
 //     id: 1,
 //     title: "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
