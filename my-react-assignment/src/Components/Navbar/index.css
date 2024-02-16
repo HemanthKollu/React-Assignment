@@ -1,0 +1,38 @@
+.title{
+    color: #E5DFD9;
+    width: 197px;
+    height: 28px;
+    font-family: Comme;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 3px;
+}
+.title-icons-container{
+    display: flex;
+    justify-content: space-between;
+}
+.list-container{
+    list-style-type: none;
+    display: flex;
+}
+.list-icons{
+    margin-right: 30px;
+    color: #E5DFD9;
+}
+.accessing-container{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px
+}
+.names-list{
+    font-family: Encode Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    color: #E5DFD9;
+    margin-right: 30px;
+
+}

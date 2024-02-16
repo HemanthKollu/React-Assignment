@@ -1,0 +1,9 @@
+.header-icons-container{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.header-icons{
+    height: 107px;
+}

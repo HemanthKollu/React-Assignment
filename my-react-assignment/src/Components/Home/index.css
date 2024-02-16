@@ -1,0 +1,28 @@
+.bag{
+    color: #E5DFD9;
+    list-style-type: none;
+    font-family: "Encode sans";
+}
+.backpack{
+    color: #E5DFD9;
+    margin-left: 25px;
+    font-family: "Encode sans";
+}
+.bag-list-container{
+    display: flex;
+    justify-content: flex-start;
+}
+.bag-details-container{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.product-count-container{
+    display: flex;
+}
+.product{
+    color: #E5DFD9;
+    font-family: "Encode sans";
+}
